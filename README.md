@@ -49,7 +49,7 @@ Most crashes occur during daylight hours, which is expected given that people te
 Summary: <br>
 The two bar charts illustrate which types of crashes are most common and which are most fatal, giving insurance companies valuable insight into both the frequency and severity of different crash categories. This information supports more accurate pricing models that balance risk and expected payouts. Additional analytical approaches could include linking this dataset with historical insurance premium and claims data to study how crash types influence actual costs, or building regression models to estimate how different factors contribute to final payout amounts. The final visualizations highlight contributing factors such as lighting conditions and roadway surface conditions, which are especially useful for policy makers. By understanding how these environmental factors correlate with crash occurrence, policy makers can design and implement targeted preventative measures—such as improved lighting or enhanced road warnings—to reduce crash rates and improve overall traffic safety.
 
-## Question 1 (Predictive): How will the total number of traffic-related injuries change over future months based on historical crash trends and seasonal patterns? 
+## Question 2 (Predictive): How will the total number of traffic-related injuries change over future months based on historical crash trends and seasonal patterns? 
 
 <img width="1547" height="791" alt="Q2_Crash   Injury Total" src="https://github.com/user-attachments/assets/7ecabfa4-4a8a-4a67-be07-c292cf3ad324" />
 
